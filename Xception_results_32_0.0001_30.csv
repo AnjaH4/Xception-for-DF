@@ -1,0 +1,7 @@
+Method,AUC,AC,Loss
+test_FaceSwap,0.44268444658231004,0.5521900519673348,"tensor(7.9473e-09, device='cuda:0')"
+test_Face2Face,0.6945680902457241,0.5264395619162803,"tensor(3.9736e-08, device='cuda:0')"
+test_deep_fakes,0.9976673948642147,0.9893674293405115,"tensor(9.9341e-09, device='cuda:0')"
+test_InsightFace,0.6767374854730305,0.5056929192211816,"tensor(8.8303e-09, device='cuda:0')"
+test_NeuralTextures,0.7576223597117175,0.616178107606679,"tensor(3.9736e-08, device='cuda:0')"
+test_FaceShifter,0.5865841031888128,0.5041327867750823,"tensor(1.1921e-07, device='cuda:0')"
