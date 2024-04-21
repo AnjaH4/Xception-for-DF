@@ -2,4 +2,5 @@ FF+_align/
 small/
 wandb/
 *.zip
-*.png
+wandb/
+__pycache__/
